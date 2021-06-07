@@ -1,0 +1,12 @@
+Name     Math Science English Arts Total
+Wade        1     6.0      92   13 112.0
+Anwar       2      51      16   10    79
+Ismael      4       2      38   72   116
+Nikkita     8      10     4.2   26  48.2
+Mariella   16      24      32   21    93
+Jimmy      32      20      76   44   172
+Ace        64      48     8.3   52 172.3
+Johan      12      40      65   42   159
+Martine     8    96.1      53   88 245.1
+Mac        25      81       6   10   122
+Total     172   378.1   390.5  378 1318.6
